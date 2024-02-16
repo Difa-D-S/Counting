@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    margin-top: 13%;
+}
+
+.start{
+    margin-right: 100px !important;
+}
+
+h1{
+    letter-spacing: 15px;
+    font-size: 50px !important;
+}
+
+.row{
+    padding: 60px 200px;
+    text-align: center;
+    margin: 50% 0 0 0;
+    background-color: black;
+    color: white;
+}
+
+.col-md-4{
+    text-align: center !important;
+    padding-top: 25px;
+    letter-spacing: none;
+}
+
+button{
+    padding: 7px 20px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 50px !important;
+}
+
+.increment:hover{
+    background-color: Green;
+}
+
+.decrement:hover{
+    background-color: red;
+}
+
+.reset:hover{
+    background-color: blue;
+}
